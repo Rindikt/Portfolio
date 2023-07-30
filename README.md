@@ -6,6 +6,6 @@
 | [Исследование надежности заемщиков](https://github.com/Rindikt/Portfolio/blob/main/Research_about_borrowers/Research_about_borrowers.ipynb) | Выяснить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок и дать рекомендации  |  pandas, seaborn  |
 |  [Исследование пиццерии](https://github.com/Rindikt/Portfolio/blob/main/Pizzeria_analysis/Pizzeria-analysis.ipynb) | Иследовать заведение и дать советы для дальнейшей работы | pandas, seaborn, matplotlib, scipy, numpy,scipy |
 | [Проведение A/B теста по сырым данным](https://github.com/Rindikt/Portfolio/blob/main/Raw_data_A-B_test/Raw_data_A-B_test.ipynb)| Проверить ожидаемый эффект: за 14 дней с момента регистрации в системе пользователи покажут улучшение каждой метрики не менее, чем на 10%: | pandas, numpy, matplotlib, pyplot, math, scipy, stats, seaborn, plotly |
-| [Дашборд для исcледования вакансий]([https://github.com/Rindikt/Portfolio/tree/main/Vacancies%20dashboard)| Построение дашборда для поиска и исследования вакансий | DataLens |
+| [Дашборд для исcледования вакансий](https://github.com/Rindikt/Portfolio/tree/main/Vacancies%20dashboard)| Построение дашборда для поиска и исследования вакансий | DataLens |
 
 
