@@ -13,6 +13,6 @@
 |  [Исследование пиццерии](https://github.com/Rindikt/Portfolio/blob/main/Pizzeria_analysis/Pizzeria-analysis.ipynb) | Иcследовать заведение и дать советы для дальнейшей работы | pandas, seaborn, matplotlib, scipy, numpy,scipy |
 | [Проведение A/B теста по сырым данным](https://github.com/Rindikt/Portfolio/blob/main/Raw_data_A-B_test/Raw_data_A-B_test.ipynb)| Проверить ожидаемый эффект: за 14 дней с момента регистрации в системе пользователи покажут улучшение каждой метрики не менее, чем на 10%: | pandas, numpy, matplotlib, pyplot, math, scipy, stats, seaborn, plotly |
 | [Исследовательский анализ недвижимости в Санкт-Петербурге и соседних населённых пунктов](https://github.com/Rindikt/Portfolio/blob/main/Real%20estate%20market%20research/real%20estate%20market%20research.ipynb)| Исcледовать недвижимость в СпБ и лен области и найти инсайды | pandas, matplotlib, datetime |
-| [Исследования сервиса «Ненужные вещи»](https://github.com/Rindikt/Portfolio/blob/main/Research%20service%20Unnecessary%20things/unnecessary_things.ipynb)|Исследовать данные и найти инсайты, которые позволят приложению стать  лучше|
+| [Исследования сервиса «Ненужные вещи»](https://github.com/Rindikt/Portfolio/blob/main/Research%20service%20Unnecessary%20things/unnecessary_things.ipynb)|Исследовать данные и найти инсайты, которые позволят приложению стать  лучше|pandas, matplotlib, seaborn, scipy, math, numpy, datetime|
 
 
