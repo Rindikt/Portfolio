@@ -3,6 +3,7 @@
 | Название проекта  | Описание проекта  | Стек |
 |:------------- |:---------------:| -------------:|
 | [Дашборд для исcледования вакансий](https://github.com/Rindikt/Portfolio/tree/main/Vacancies%20dashboard)| Построение дашборда для поиска и исследования вакансий | DataLens |
+| [Анализ рынка автомобилей в Республике Казахстан](https://github.com/Rindikt/Portfolio/blob/main/Analysis_of_the_car_market_in_Kazakhstan/Analysis_of_the_car_market_in_Kazakhstan.ipynb)| Обработка сырых данных, изучение рынка автомобилей| pandas, seaborn, matplotlib, warnings, numpy |
 
 ### Учебные проекты
 | Название проекта  | Описание проекта  | Стек |
